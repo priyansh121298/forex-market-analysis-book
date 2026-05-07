@@ -27,7 +27,7 @@ This is a complete 7-module course designed to take you from a complete beginner
 
 You can view or download the complete PDF here:
 
-[**📖 FOREXMARKETANALYSIS.pdf**](https://github.com/YourUserName/forex-market-analysis-book/blob/main/FOREXMARKETANALYSIS.pdf)
+[**📖 FOREXMARKETANALYSIS.pdf**](https://github.com/priyansh121298/forex-market-analysis-book/blob/main/FOREXMARKETANALYSIS.pdf)
 
 *(After setting up GitHub Pages (Step 4), you will also have a direct link to view the PDF in your browser.)*
 
